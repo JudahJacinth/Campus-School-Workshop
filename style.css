@@ -25,6 +25,7 @@ h1, h2 {
     z-index: 1000; /* Ensure it's above other content */
 }
 
+
 #logoImage {
     height: 80px;
 }
